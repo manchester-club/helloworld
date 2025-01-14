@@ -1,2 +1,2 @@
-This is a readme text.
-test2
+# helloworld
+just another repository
